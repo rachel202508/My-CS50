@@ -1,0 +1,35 @@
+<!--
+1. HTML tags
+1) <h></h>
+2) <p></p>
+3) <q></q>
+4) <sup></sup>
+5) <a href></a>
+6) <img src>
+7) <cite></cite>
+8) <table></table>
+9) <hr>
+10) <tr></tr>
+11) <td></td>
+12) <div></div>
+13) <strong></strong>
+
+
+2. Bootstrap
+Build vertically collapsing accordions using the 'accordion' component.
+
+
+3. CSS properties
+1) border
+2) color
+3) margin
+4) font-family
+5) text-align and so on
+(Selectors: element, class, id, universal and group selectors)
+
+
+4. Javascript
+add a button to show the current time on the top of the website
+
+-->
+

@@ -1,0 +1,55 @@
+h1 {
+
+    color: darkblue;
+    font-size: 24px;
+    font-family: Arial;
+}
+
+p, p0 {
+
+    color: darkblue;
+    font-size: 18px;
+    font-family: Arial;
+}
+
+#link {
+
+    color: darkblue;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+.div {
+
+    border: 2px outset white;
+    border-radius: 3px;
+
+    background-color: powderblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding: 15px;
+    margin: 5px;
+
+    font-family: Arial;
+    color: darkblue;
+}
+
+.part {
+
+    border: 2px outset white;
+    border-radius: 3px;
+
+    background-color: #F8F6CA;
+
+    padding: 15px;
+    margin: 20px;
+
+    font-family: Arial;
+    color: darkblue;
+}
+
+* {
+
+    text-align: center;
+}
