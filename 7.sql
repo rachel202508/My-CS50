@@ -1,6 +1,8 @@
--- 7. All movies and ratings from 2010, in decreasing order by rating (alphabetical for those with same rating)
-SELECT title, rating
-FROM movies, ratings
-WHERE movies.id = ratings.movie_id
-AND movies.year = 2010
-ORDER BY ratings.rating DESC, movies.title;
+SELECT AVG(energy)
+FROM songs
+WHERE artist_id =
+(
+    SELECT id
+    FROM artists
+    WHERE name = 'Drake'
+);

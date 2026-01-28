@@ -1,3 +1,8 @@
-The THIEF is: Bruce
-The city the thief ESCAPED TO: New York City
-The ACCOMPLICE is: Robin
+Q1 If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+First, I would use the "SELECT" function to get the energy, valence, and danceability of the listener for all the songs.
+Then, I would use the "AVG" function to calculate the average of the energy, valence, and danceability of the listener's top 100 songs from the past year.
+After that, I can calculate the weight percentage to the two audio moods so that I can get the listener's "Audio Aura".
+
+Q2 Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+The audio aura may not be determined simply by energy, valence, and danceability.
+We may calculate the average value of the tempo and key of the songs, as well.
